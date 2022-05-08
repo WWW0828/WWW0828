@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WWW0828
-- 👀 I’m interested in chess (my chess.com account : CatHateMe)
-- 🌱 I’m currently learning Computer Science , I'm a 3rd grader
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email:weng0989969828@gmail.com
+- 🌱 Education: Major in Computer Science, NTHU (Since Sep, 2019) 
+- 📫 Email: weng0989969828@gmail.com
+- 👀 Hobby: Chess
+    - chesscom: CatHateMe / lichess: C1PH3R73X7
 
 <!---
 WWW0828/WWW0828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
