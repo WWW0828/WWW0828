@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WWW0828
+- 👋 Hi, I’m Yu-Hsin Weng (@WWW0828)
 - 🌱 Education: Master of Science in Computer Science, UCLA (September 2023 ~ June 2025) 
 - 📫 Email: yuhsin1614@g.ucla.edu
 - 💻 Link: [LinkedIn](https://www.linkedin.com/in/yuhsin-weng), [Resume](https://drive.google.com/file/d/1lPLPuwo3RJ-QveOC-HPsHfLws_5T0Nxn/view?usp=sharing) (Actively seeking **2024 Summer Internship**)
