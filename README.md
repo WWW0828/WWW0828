@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WWW0828
-- 🌱 Education: Major in Computer Science, NTHU (Since Sep, 2019) 
-- 📫 Email: weng0989969828@gmail.com
+- 🌱 Education: Master of Science in Computer Science, UCLA (September 2023 ~ June 2025) 
+- 📫 Email: yuhsin1614@g.ucla.edu
 - 👀 Hobby: Chess
     - chesscom: CatHateMe / lichess: C1PH3R73X7
 
