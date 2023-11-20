@@ -5,10 +5,6 @@
 - 💻 Link:
   - [LinkedIn](https://www.linkedin.com/in/yuhsin-weng)
   - [Resume](https://drive.google.com/file/d/1lPLPuwo3RJ-QveOC-HPsHfLws_5T0Nxn/view?usp=sharing) (Actively seeking **2024 Summer Internship**)
-- 👀 Hobbies & Organizations:
-  - Chess (Chinese Taipei National Team Player)
-  - Tennis (NTHU Varsity Player)
-  - Bruinformula (Team: Low Voltage)
 
 <!---
 WWW0828/WWW0828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
