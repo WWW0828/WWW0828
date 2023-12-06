@@ -4,7 +4,7 @@
   - Bachelor of Science in Computer Science, NTHU (2019-2023)
 - 💻 Link:
   - [LinkedIn](https://www.linkedin.com/in/yuhsin-weng)
-  - [Resume](https://drive.google.com/file/d/1lPLPuwo3RJ-QveOC-HPsHfLws_5T0Nxn/view?usp=sharing) (Actively seeking **2024 Summer Internship**)
+  - [Resume](https://drive.google.com/file/d/14VDERgYOqfR0MozW0U_p1uurjFSRmHs2/view?usp=drive_link) (Actively seeking **2024 Summer Internship**)
 
 <!---
 WWW0828/WWW0828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
