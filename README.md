@@ -4,8 +4,7 @@
   - Bachelor of Science in Computer Science, NTHU (2019-2023)
     - The 20th Dr. Mei Yi-Chi Memorial Award
 - 💻 Link:
-  - [LinkedIn](https://www.linkedin.com/in/yuhsin-weng)
-  - [Resume](https://drive.google.com/file/d/14VDERgYOqfR0MozW0U_p1uurjFSRmHs2/view?usp=drive_link) (Actively seeking **2024 Summer Internship**)
+  - [LinkedIn](https://www.linkedin.com/in/yuhsin-weng), [Resume](https://drive.google.com/file/d/14VDERgYOqfR0MozW0U_p1uurjFSRmHs2/view?usp=drive_link) (Actively seeking **2024 Summer Internship**)
 
 <!---
 WWW0828/WWW0828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
